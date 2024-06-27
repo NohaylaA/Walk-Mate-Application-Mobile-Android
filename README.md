@@ -1,8 +1,8 @@
 # Mon Projet
 
-Bienvenue dans mon projet. Ce dépôt "https://github.com/NohaylaA/projet_mobile" contient le code source et la documentation nécessaire pour comprendre et utiliser le projet.
+Bienvenue dans mon projet. Ce dépôt "https://github.com/NohaylaA/projet_mobile" contient le code source.
 
-## documentation
+## Documentation
 
 Voici les interface d'utilisateur de mon projet
 
