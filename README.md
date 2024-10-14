@@ -1,3 +1,37 @@
+# Walk Mate - Application Mobile Android
+
+**Walk Mate** est une application mobile Android conçue pour capturer et suivre l'activité physique de l'utilisateur en temps réel. Ce projet fait partie d'une série de travaux pratiques réalisés dans le cadre du module de **programmation d'interfaces embarquées sous Android** à la **Faculté des Sciences de Meknès**.
+
+## Fonctionnalités principales
+
+1. **Enregistrement de l'utilisateur** : L'application permet à un utilisateur de créer un compte en fournissant son email et mot de passe. Une fois enregistré, l'utilisateur peut se connecter à tout moment.
+
+2. **Gestion du profil** : Chaque utilisateur peut compléter son profil avec des informations personnelles telles que le nom, le numéro de téléphone, le sexe, et la filière d'inscription à l'université. Le profil est modifiable via la section "paramètres" de l'application.
+
+3. **Suivi des activités physiques** : Grâce à l'intégration de l'API Google Activity Recognition, l'application détecte automatiquement les activités de l'utilisateur (comme marcher, courir, etc.). L'activité prédominante est affichée avec un niveau de confiance allant de 0 à 100, indiquant la probabilité d'exactitude.
+
+4. **Historique des activités** : L'utilisateur peut consulter l'historique de ses activités, incluant la date, l'heure de début et de fin, ainsi que le type d'activité détectée.
+
+5. **Affichage sur Google Maps** : Les activités de l'utilisateur sont également géolocalisées et affichées sur une carte Google Maps pour une meilleure visualisation de son parcours.
+
+## Technologies utilisées
+
+- **Langage** : Java
+- **Framework** : Android SDK
+- **API utilisée** : Google Activity Recognition API
+- **Base de données** : SQLite pour la gestion des comptes et des historiques d'activités.
+- **Google Maps** : Intégration pour la géolocalisation des activités.
+
+## Installation
+
+1. Clonez le dépôt :  
+   ```bash
+   git clone https://github.com/NohaylaA/Anoada_Nohayla_project.git
+
+
+
+
+
 # Mon Projet
 
 Bienvenue dans mon projet. Ce dépôt "https://github.com/NohaylaA/projet_mobile" contient le code source.
