@@ -1,6 +1,6 @@
 # Walk Mate - Application Mobile Android
 
-**Walk Mate** est une application mobile Android conçue pour capturer et suivre l'activité physique de l'utilisateur en temps réel. Ce projet fait partie d'une série de travaux pratiques réalisés dans le cadre du module de **programmation d'interfaces embarquées sous Android** à la **Faculté des Sciences de Meknès**.
+**Walk Mate** est une application mobile Android conçue pour capturer et suivre l'activité physique de l'utilisateur en temps réel. 
 
 ## Fonctionnalités principales
 
@@ -22,23 +22,6 @@
 - **Base de données** : SQLite pour la gestion des comptes et des historiques d'activités.
 - **Google Maps** : Intégration pour la géolocalisation des activités.
 
-## Installation
-
-1. Clonez le dépôt :  
-   ```bash
-   git clone https://github.com/NohaylaA/Anoada_Nohayla_project.git
-
-
-
-
-
-# Mon Projet
-
-Bienvenue dans mon projet. Ce dépôt "https://github.com/NohaylaA/projet_mobile" contient le code source.
-
-## Documentation
-
-Voici les interface d'utilisateur de mon projet
 
 ![WhatsApp Image 2024-06-27 at 1 44 45 PM](https://github.com/NohaylaA/Anoada_Nohayla_project/assets/107950595/4a13d212-08ea-430a-8016-40c1b175c65c)
 ![WhatsApp Image 2024-06-27 at 1 42 29 PM](https://github.com/NohaylaA/Anoada_Nohayla_project/assets/107950595/d3a6717f-b3e1-466b-90a1-46fef3351fc5)
